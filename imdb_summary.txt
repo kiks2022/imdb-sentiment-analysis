@@ -1,0 +1,32 @@
+
+IMDB MOVIE REVIEWS - SUMMARY OF INSIGHTS
+AnalystLab Africa AI Internship Week 1 & 2
+
+DATASET OVERVIEW
+Total reviews    : 50,000
+Positive reviews : 25,000 (50%)
+Negative reviews : 25,000 (50%)
+Missing values   : None
+
+TEXT PREPROCESSING STEPS
+1. Removed HTML tags (e.g. <br /><br />)
+2. Removed numbers and punctuation
+3. Converted all text to lowercase
+4. Tokenization - split each review into individual words
+5. Stopword removal - removed 198 common English words
+
+RESULTS
+Before stopword removal : 156 words (example review)
+After stopword removal  : 84 words (example review)
+Words removed           : 72 useless words (46% reduction)
+
+KEY FINDINGS
+- Dataset is perfectly balanced (50% positive, 50% negative)
+- Top words in positive reviews: film, movie, great, story, love
+- HTML cleaning is essential for real-world text data
+- Stopword removal cuts nearly half the words, keeping only meaningful ones
+
+CONCLUSION
+Text data needs heavy cleaning before AI can understand it.
+Raw reviews are messy - full of HTML, punctuation and useless words.
+After preprocessing, the text is clean and ready for AI modeling.
