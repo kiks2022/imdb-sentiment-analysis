@@ -28,7 +28,7 @@ The project focuses on preparing raw text data for machine learning by applying 
 
 The original IMDB dataset contains 50,000 reviews.
 
-To keep this repository lightweight and within GitHub file size recommendations, a cleaned sample of 5,000 reviews (`cleaned_imdb_sample.csv`) is included instead of the full processed dataset.
+To keep this repository lightweight and within GitHub file size recommendations, a cleaned sample of 5,000 reviews (`cleaned_imdb_sample.csv`) is included instead of the full processed dataset (link to Original Dataset - https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews).
 ---
 
 ## What I Did
