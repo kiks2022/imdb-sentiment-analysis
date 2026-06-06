@@ -24,7 +24,11 @@ The project focuses on preparing raw text data for machine learning by applying 
 - 2 columns: `review`, `sentiment`
 - Target column: `sentiment` (positive / negative)
 - Balanced dataset (25,000 positive, 25,000 negative)
+## Note on Dataset Size
 
+The original IMDB dataset contains 50,000 reviews.
+
+To keep this repository lightweight and within GitHub file size recommendations, a cleaned sample of 5,000 reviews (`cleaned_imdb_sample.csv`) is included instead of the full processed dataset.
 ---
 
 ## What I Did
