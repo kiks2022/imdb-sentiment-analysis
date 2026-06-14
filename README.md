@@ -1,4 +1,4 @@
-# AnalystLab Africa — AI Internship Program
+# AnalystLab Africa — Data Analytics Internship Program
 ### Week 1 & 2: Natural Language Processing (NLP) — IMDB Sentiment Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
